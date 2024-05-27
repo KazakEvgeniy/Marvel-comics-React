@@ -7,6 +7,7 @@
         grid-template-columns: 650px 425px;
         column-gap: 25px;
         align-items: start;
+	
     }
     &__grid {
         display: grid;
@@ -23,6 +24,7 @@
         cursor: pointer;
         transition: 0.3s transform;
         img {
+	
             width: 200px;
             height: 200px;
             object-fit: cover;

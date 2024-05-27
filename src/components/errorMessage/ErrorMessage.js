@@ -1,5 +1,5 @@
 
-// задаём любое название переменной
+// задаём любоое название переменной
 import imgError from './error.gif'
 const ErrorMessage = () => {
 	return (

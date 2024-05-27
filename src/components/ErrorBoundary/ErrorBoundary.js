@@ -1,8 +1,8 @@
 import { Component } from "react";
 import ErrorMessage from "../errorMessage/ErrorMessage";
 
-// это тот компонент который будет ловить ошибку
 
+// обработка ошибок
 class ErrorBoundary extends Component {
 	state = {
 		error: false
